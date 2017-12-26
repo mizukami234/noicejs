@@ -1,3 +1,5 @@
+import 'babel-polyfill';
+
 // Basic underlying functions
 
 import Injector from './Injector';
